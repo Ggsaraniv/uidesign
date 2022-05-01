@@ -1,0 +1,76 @@
+#menu li{
+  list-style-type: none;
+    max-width: 16em;
+    font-size: 20px;
+    float: left;
+    font-size: larger;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    overflow: hidden;
+}
+#menu li a{
+    color: rgb(29, 32, 184);
+     display: inline-block;
+    padding: 20px;
+    top: 10px;
+    margin-left: 160px;
+    text-decoration: none;
+    text-align:center;
+     background-attachment: fixed;
+}
+
+ img{
+   margin-left: 160px;
+   padding: 90px;
+   height: 10cm;
+ }
+#quotes
+{
+  text-align: center;
+  margin-left: 160px;
+}
+
+
+
+ #head
+ { margin-left: 160px;
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: rgb(68, 236, 214);
+ }
+ 
+ 
+ 
+ 
+ .sidebar
+ {
+height: 100%;
+width: 160px;
+z-index: 1;
+position: fixed;
+top: 0;
+left: 0;
+background-color: #111;
+overflow-x: hidden;
+padding-top: 16px;
+}
+.sidebar a{
+padding: 6px 8px 6px 16px;
+text-decoration: none;
+font-size: 20px;
+color: #818181;
+display: block;
+
+}
+
+.everset
+{
+border: 2px salmon;
+  align-content: center;
+position: absolute;
+top: 10%;
+left: 75%;
+background-color: #111;
+color: rgba(238, 20, 20, 0.5);
+text-align:center;
+}
